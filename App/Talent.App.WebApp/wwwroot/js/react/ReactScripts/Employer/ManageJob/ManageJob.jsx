@@ -166,9 +166,9 @@ export default class ManageJob extends React.Component {
                                         </Card.Description>
                                     </Card.Content>
                                     <Card.Content extra>
-                                        {/* <div class="red-button">
+                                         <div class="red-button">
                                             <button class="ui red button">EXpired</button>
-                                        </div> */}
+                                        </div> 
                                         <div className='ui two buttons'>                                        
                                             <Button basic color='blue'><i class="ban icon"></i>Close</Button>
                                             <Button basic color='blue'><i class="edit outline icon"></i>Edit</Button>
